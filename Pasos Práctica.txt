@@ -3,5 +3,6 @@
 3. Guardar los cambios de manera local (git add)
 4. Añadir comentarios de los cambios realizados (git commit)
 5. Subir los cambios al servidor de github (git push)
-6.
+6. Modificar los ficheros desde la pagina web
+7. Actualizar los cambios a nivel local (git pull)
 
