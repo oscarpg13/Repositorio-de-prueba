@@ -1,0 +1,6 @@
+Comandos de Git Hub
+1.Git clone
+2.Git pull
+3.Git add
+4.Git commit
+5.Git push

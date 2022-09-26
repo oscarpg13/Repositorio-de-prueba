@@ -1,0 +1,7 @@
+1. Clonar en nuestro pc el repositorio creado en Github web (git clone)
+2. Añadir ficheros de manera local 
+3. Guardar los cambios de manera local (git add)
+4. Añadir comentarios de los cambios realizados (git commit)
+5. Subir los cambios al servidor de github (git push)
+6.
+
